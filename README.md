@@ -16,3 +16,6 @@ This is a simple web project, deplyoment can be on any web server or even local 
 
 ## How To Contribute
 
+## Copyright
+
+Some copyright crap
