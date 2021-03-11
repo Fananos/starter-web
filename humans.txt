@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Alex Hanin <hanin@arrival.com> @hanin
 
 # THANKS
 
