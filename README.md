@@ -16,6 +16,9 @@ This is a simple web project, deplyoment can be on any web server or even local 
 
 ## How To Contribute
 
+Please fork this repository
+blablabla
+
 ## Copyright
 
 Some copyright crap
